@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-22T22:03:26 IST" name="Default suite" finished-at="2021-09-22T22:03:55 IST" duration-ms="28320">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="TC_03_CreateOrganizationTest.CreateOrganization()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" name="CreateOrganization" class="com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest"/>
+      </group> <!-- RegressionSuite -->
+    </groups>
+    <test started-at="2021-09-22T22:03:26 IST" name="Default test" finished-at="2021-09-22T22:03:55 IST" duration-ms="28320">
+      <class name="com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest">
+        <test-method is-config="true" signature="CoonectDB()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" started-at="2021-09-22T22:03:26 IST" name="CoonectDB" finished-at="2021-09-22T22:03:26 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CoonectDB -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" started-at="2021-09-22T22:03:26 IST" name="launchBrowser" finished-at="2021-09-22T22:03:32 IST" duration-ms="5692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" started-at="2021-09-22T22:03:32 IST" name="loginToApp" finished-at="2021-09-22T22:03:38 IST" duration-ms="6089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="CreateOrganization()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" started-at="2021-09-22T22:03:38 IST" name="CreateOrganization" finished-at="2021-09-22T22:03:52 IST" duration-ms="13200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrganization -->
+        <test-method is-config="true" signature="logoutApp()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" started-at="2021-09-22T22:03:52 IST" name="logoutApp" finished-at="2021-09-22T22:03:55 IST" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" started-at="2021-09-22T22:03:55 IST" name="closeBrowser" finished-at="2021-09-22T22:03:55 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeDB()[pri:0, instance:com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest@1530c739]" started-at="2021-09-22T22:03:55 IST" name="closeDB" finished-at="2021-09-22T22:03:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDB -->
+      </class> <!-- com.crm.SeleniumProject_Maven.Script.TC_03_CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
